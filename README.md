@@ -1,5 +1,9 @@
 # Happy L Fractals
 A simple tool to draw fractal from it's L-system description.
+## dependencies
+Python 3.0 or above
+Tkinter
+Turtle
 
 ## Input Description
 Axiom: The initial string for the generation.
@@ -13,12 +17,12 @@ Side Length: Length of each side of the Fractals.
 Sample input for Piano-Gosper-Curve is:
 
                 Axiom = FX
-                Rules = {\"X\":\"X+YF++YF-FX--FXFX-YF+\", \"Y\":\"-FX+YFYF++YF+FX--FX-Y"}
+                Rules = {"X":"X+YF++YF-FX--FXFX-YF+", "Y":"-FX+YFYF++YF+FX--FX-Y"}
                 Iterations = 4 
                 Angle = 60 
                 Side Length = 3"
                 
 ## Sample Interface
-![alt text](https://raw.githubusercontent.com/ashiq24/Fractals/main/interface.PNG)
+![alt text](https://raw.githubusercontent.com/ashiq24/Fractals/main/interface.PNG=250x)
 
 
