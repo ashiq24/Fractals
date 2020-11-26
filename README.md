@@ -23,6 +23,8 @@ Sample input for Piano-Gosper-Curve is:
                 Side Length = 3"
                 
 ## Sample Interface
+<img src="https://raw.githubusercontent.com/ashiq24/Fractals/main/interface.PNG" width="200" height="200" />
+
 ![alt text](https://raw.githubusercontent.com/ashiq24/Fractals/main/interface.PNG =250x)
 
 
