@@ -13,7 +13,7 @@ Axiom: The initial string for the generation.
 
 Rules: A set of production rules. Rules are taken in form of Python Dictionaries.
 
-Angle: Required Angle of roation for the fractals.
+Angle: Required Angle of rotation for the fractals.
 
 Side Length: Length of each side of the Fractals.
 
