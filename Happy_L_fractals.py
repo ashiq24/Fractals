@@ -130,7 +130,7 @@ class Application(tk.Frame):
         #tk.Label(self,text="").grid(row=13)
         Rules = tk.Label(self, text=" A simple tool to draw fractal from it's L-system description. \
  \n Axiom: The initial string for the generation. \n Rules: A set of \
-production rules. Input is taken in form of Python Dictionaries.\n Angle: Required Angle of roation for the fractals. \n \
+production rules. Input is taken in form of Python Dictionaries.\n Angle: Required Angle of rotation for the fractals. \n \
  Side Length: Length of each side of the Fractals.\
 \n Sample inputs for Koch-Snowflake are given in the Input box.\n \
  Sample input for Piano-Gosper-Curve is: \n \
