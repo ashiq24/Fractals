@@ -6,7 +6,8 @@ Python 3.0 or above
 Tkinter
 
 Turtle
-
+## Instructional Video 
+[YouTube](https://www.youtube.com/watch?v=2QT3UiWYNSw)
 ## Input Description
 
 Axiom: The initial string for the generation.
